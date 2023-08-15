@@ -1,0 +1,16 @@
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\bin\Debug\netstandard2.0\Vuz.deps.json
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\bin\Debug\netstandard2.0\Vuz.dll
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\bin\Debug\netstandard2.0\Vuz.pdb
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.csproj.AssemblyReference.cache
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.AssemblyInfoInputs.cache
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.AssemblyInfo.cs
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.csproj.CoreCompileInputs.cache
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.dll
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\refint\Vuz.dll
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\Vuz.pdb
+C:\Users\rota1\source\repos\Vuz\Vuz\Vuz\obj\Debug\netstandard2.0\ref\Vuz.dll

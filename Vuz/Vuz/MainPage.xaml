@@ -1,0 +1,76 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vuz.MainPage">
+    
+
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Image Margin="0,0,0,0" Source="https://i.ibb.co/5khL8kd/7793f301-9809-4a6d-8fbf-df66e2206c5a.jpg"
+                     Aspect="Fill"
+                     HorizontalOptions="FillAndExpand"
+                     VerticalOptions="FillAndExpand" />
+        <Button Text="Тернівський"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+                Clicked="TernButtonClicked">
+        </Button>
+        <Button Text="Покровський"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+               Clicked="PokrButtonClicked" >
+        </Button>
+        <Button Text="Саксаганьський"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+               Clicked="SaksagButtonClicked" >
+        </Button>
+        <Button Text="Довгинцевський"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+                Clicked="DovgButtonClicked">
+        </Button>
+        <Button Text="Центрально-Міський"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+                Clicked="CentrButtonClicked">
+        </Button>
+        <Button Text="Металургійний"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+                Clicked="MetalButtonClicked">
+        </Button>
+        <Button Text="Інгулецький"
+                BackgroundColor="Green"
+                TextColor="White"
+                FontSize="Medium"
+                BorderWidth="2"
+                BorderColor="Black"
+                CornerRadius="8"
+                Clicked="IngulButtonClicked">
+        </Button>
+    </StackLayout>
+    
+</ContentPage>
